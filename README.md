@@ -6,3 +6,10 @@ This is an open-source, Wi-Fi controlled audio player using the ESP8266 WiFi mic
 The hardware design utilizes DFPlayer sound module for loading MP3 files from an SD card, which can be accessed and played seamlessly over WiFi.
 
 ## Features
+<p align="center">
+  <img alt="WiMu web audio player features" src="/img/WiMu-components.png">
+  <br>
+  <b>Some features in the first prototype of WiMu</b>
+  <br>
+  <br>
+</p>
